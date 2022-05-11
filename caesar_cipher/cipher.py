@@ -9,3 +9,6 @@ def decrypt():
 
 def crack():
   pass
+
+def some_functions():
+  pass
