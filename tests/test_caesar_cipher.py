@@ -1,3 +1,4 @@
+import pytest
 from caesar_cipher.cipher import encrypt, decrypt, crack
 
 
