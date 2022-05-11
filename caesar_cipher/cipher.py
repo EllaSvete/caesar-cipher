@@ -1,14 +1,11 @@
 import random
 
-def encrypt():
+def encrypt(plain, shift):
   pass
 
 
-def decrypt():
+def decrypt(encoded, key):
   pass
 
 def crack():
-  pass
-
-def some_functions():
   pass
